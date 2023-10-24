@@ -1,0 +1,26 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "typescript.suggest.paths": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/node_modules": true,
+        "**/.contentlayer": true,
+        "**/build": true,
+        "**/.next": true,
+        "**/.turbo": true,
+        "**/.cache": true,
+        "next-env.d.ts": true,
+        "caddy.dev.pid": true
+    },
+    "files.associations": {
+        "*.css": "tailwindcss"
+    }
+}
